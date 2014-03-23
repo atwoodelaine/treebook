@@ -8,7 +8,7 @@ gem 'sqlite3'
 
 gem 'simple_form'
 
-gem 'bootstrap'
+gem "twitter-bootstrap-rails"
 
 gem 'devise'
 # Use SCSS for stylesheets
