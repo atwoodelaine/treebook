@@ -2,5 +2,4 @@ jason:
      first_name: "Jason"
      last_name: "Seifer"
      email: "jason@teamtreehouse.com"
-     password: "password"
-     password_confirmation: "password"
+   
