@@ -40,6 +40,8 @@ end
 
 gem 'protected_attributes'
 
+gem 'pg' 
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.1.2'
 
