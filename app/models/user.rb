@@ -17,7 +17,7 @@ attr_accessible :email, :password, :password_confirmation, :remember_me, :first_
 	validates :profile_name, presence: true, 
 							uniqueness: true,
 							format: {
-								with: /a-zA-Z0-9_-/,
+								with: /^[a-zA-Z0-9_-]+$/,
 								message: 'Must be formatted correctly.'
 							}
 
